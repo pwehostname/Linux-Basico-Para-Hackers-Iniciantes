@@ -11,7 +11,7 @@ Inicialmente trabalharemos com distribuções com base **Debian**, que é a base
 O sufiente, para que consiga sozinho, gerenciar seu sistema, como por ex.:
 * Instalar e Remover programas;
 * Atualizar seu sistema de forma segura;
-* Personzilzar seu sistema;
+* Personazilzar seu sistema;
 * Identificar e solucionar problemas.
 
 ## 😌 Qual a frequência que o guia será atualizado ?
