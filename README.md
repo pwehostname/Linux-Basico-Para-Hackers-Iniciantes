@@ -16,6 +16,6 @@ O sufiente, para que consiga sozinho, gerenciar seu sistema, como por ex.:
 
 ## 😌 Qual a frequência que o guia será atualizado ?
 
-Trabalho e estudo, porém vou tentar manter o compromisso, pode postar semanalmente, e se o tema da semana permiter, colocarei, exercícios para treinar o conhecimento adquirido.
+Trabalho e estudo, porém vou tentar manter o compromisso de postar semanalmente, e se o tema da semana permiter, colocarei, exercícios para treinar o conhecimento adquirido.
 
 Pode entrar em contato comigo, pela Matrix : @pwehostname:matrix.org
